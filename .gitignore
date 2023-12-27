@@ -1,0 +1,8 @@
+libs
+llm/__pycache__
+retrieval/__pycache__
+sections/__pycache__
+store
+training/__pycache__
+.streamlit/secrets.toml
+poppler
